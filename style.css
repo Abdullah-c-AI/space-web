@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Space+Mono:ital@0;1&display=swap');
-html{
-	scroll-behavior: smooth;
-}
 
 * {
 	margin: 0;
@@ -15,11 +12,9 @@ html{
       background-position: center;
       min-height: 100vh;
       width: 100%;
-	  margin-top:27% ;
+	  margin-top:12% ;
 }
-@media only screen and (max-width: 600px)  {
 
-}
 body {
 	display: flex;
 	justify-content: center;
@@ -148,7 +143,7 @@ body {
     background-size: cover;
     background-position: center;
     padding: 2rem;
-    height: 100vh;
+    height: 120vh;
     width: 100%;
 
 }
@@ -159,7 +154,8 @@ body {
 	align-items: center;
 	background-size: cover;
 	background-position: center;
-	height: 100vh;
+	height: 90vh;
+	width: 90%;
 }
 
 .card1 img {
@@ -222,7 +218,7 @@ body {
 
 
 
-  
+  /*
   .login-box {
 	position: relative;
 	margin-top: 55%;
@@ -386,5 +382,5 @@ body {
 	background-position: center;
 	background-size: cover;
   }
-
+*/
 
